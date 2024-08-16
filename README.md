@@ -16,13 +16,12 @@
                           |___/ 
 
 
-            </p>
+                </p>
 
                 /About_Me
                  |
                  |---bio.txt
-                 |   |--- he/him - brazilian -
-            (pt-br)
+                 |   |--- he/him - brazilian - (pt-br)
                  |   |---second-semester Informatics student at Cotuca
                  |   |---affinity for front-end development
                  |   |---always eager to learn and explore new technologies
@@ -43,5 +42,5 @@
                      |---javascript.js
                      |---java.java
 
-                </tr>
-              </table>
+    </tr>
+</table>

@@ -19,27 +19,27 @@
 
     /About_Me
     |
-    |---bio.txt
-    |   |--- he/him - brazilian - (pt-br)
-    |   |---second-semester Informatics student at Cotuca
-    |   |---affinity for front-end development
-    |   |---always eager to learn and explore new technologies
-    |   |---continuously improving my skills to become a versatile developer
+    ├──bio.txt
+    |   ├──he/him - brazilian - (pt-br)
+    |   ├──second-semester Informatics student at Cotuca
+    |   ├──affinity for front-end development
+    |   ├──always eager to learn and explore new technologies
+    │   ├──continuously improving my skills to become a versatile developer
     |
-    |---os
-    |   |---windows.txt
-    |       ---Windows 10
-    |       ---Windows 11
+    ├──os
+    |   ├──windows.txt
+    |      └──Windows 10
+    |      └──Windows 11
     |
-    |---languages
-    |   |---python.py
-    |   |---html.html
+    ├──languages
+    |   ├──python.py
+    |   ├──html.html
     |
     |
-    |---learning
-        |---sql
-        |---javascript.js
-        |---java.java
+    ├──learning
+        ├──sql
+        ├──javascript.js
+        ├──java.java
         
   </tr>
 </table>

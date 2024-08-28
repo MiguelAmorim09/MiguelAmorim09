@@ -34,7 +34,7 @@
     ├──languages
     |   ├──python.py
     |   ├──html.html
-    |    ├──css.css
+    |   ├──css.css
     |
     |
     ├──learning
